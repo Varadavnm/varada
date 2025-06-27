@@ -4,5 +4,4 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/portfolio/', // Set the base path for your portfolio
-})
+ })
